@@ -13,4 +13,4 @@ for position,score in enumerate(scores,start=1):
         best = score
         starting_pos = position
 
-print(f"Best :{best} (student #{starting_pos}) ")
+print(f"Best : {best} (student #{starting_pos}) ")
